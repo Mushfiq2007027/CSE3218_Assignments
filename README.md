@@ -68,6 +68,35 @@ The game consists of a 3x3 grid with interactive cells:
 2. **Responsive Animations**: Winning cells scale up, and messages animate smoothly.
 3. **Status Messages**: Displays the current player’s turn, win messages, or draw message.
 
+## **Screenshots**
+### ***Initially**
+![WhatsApp Image 2024-11-14 at 08 24 25_8992d88d](https://github.com/user-attachments/assets/2cda762a-d070-43b8-9809-52490e76cc5f)
+
+### ***Turns of Player X and O Respectively***
+![WhatsApp Image 2024-11-14 at 08 24 25_6f7a0b67](https://github.com/user-attachments/assets/402f2498-6d3e-40c8-a403-d85077bd2cf0)
+![WhatsApp Image 2024-11-14 at 08 24 25_e12659d5](https://github.com/user-attachments/assets/03c142a1-9e64-4cc4-990f-53b2e5ef723f)
+![WhatsApp Image 2024-11-14 at 08 24 24_d8213a43](https://github.com/user-attachments/assets/54160a9f-4f71-40e5-8937-6c18b9330301)
+![WhatsApp Image 2024-11-14 at 08 24 27_d77f67f8](https://github.com/user-attachments/assets/8195524f-0e3f-4e88-b748-02d549dc3965)
+![WhatsApp Image 2024-11-14 at 08 24 26_5654aacc](https://github.com/user-attachments/assets/a787dc15-12f5-469e-8544-2ea7fa15dad9)
+![WhatsApp Image 2024-11-14 at 08 24 26_a132030e](https://github.com/user-attachments/assets/651aee56-59ea-46a3-b621-cdfb2ec58aef)
+
+### ***Game Result-X/O Wins***
+![WhatsApp Image 2024-11-14 at 08 24 26_7b872d17](https://github.com/user-attachments/assets/fe60d1d1-e00f-46a2-bc29-921bf33ce98b)
+
+### ***Reset Game***
+![WhatsApp Image 2024-11-14 at 08 24 27_884ac556](https://github.com/user-attachments/assets/432ae79a-3e98-4e59-99ec-7266e3e6ea2e)
+
+
+### ***Game Result- Draw***
+![WhatsApp Image 2024-11-14 at 08 24 27_2ed55f3d](https://github.com/user-attachments/assets/f1e69d1a-bb28-4194-a88e-85a5541f39aa)
+
+
+
+
+
+
+
+
 ---
 
 
